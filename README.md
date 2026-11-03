@@ -6,7 +6,6 @@ Mapa interativo (Leaflet) com indicadores da base produtiva rural dos município
 
 **[Abrir o mapa](https://liviomiguelds.github.io/projeto-recuperacao-rural-rio-doce/)**
 
-> Substitua o link acima pela URL do GitHub Pages depois de publicar.
 
 ## O que o mapa mostra
 
